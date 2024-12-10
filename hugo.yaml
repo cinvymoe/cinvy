@@ -3,7 +3,7 @@
 # ~~~~~~~~~
 baseURL: "https://cinvymoe.github.io/" # 主站的 URL
 title: Cinvy's Blog # 站点标题
-copyright: "[©2024 SonnyCalcr's Blog](https://cinvymoe.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "[©2024 Cinvy's Blog](https://cinvymoe.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: zh-cn # 语言
 
